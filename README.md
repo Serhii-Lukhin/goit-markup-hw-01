@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-Home task 1
+https://serhii-lukhin.github.io/goit-markup-hw-01/
